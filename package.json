@@ -1,5 +1,5 @@
 {
-  "type": "module"
+  "type": "module",
   "name": "webrtc-signaling-server",
   "version": "1.0.0",
   "main": "index.js",
